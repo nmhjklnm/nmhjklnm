@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋, my name is nmhjklnm
+#### I am LLM System Development Engineer
+I am a master's student in Applied Statistics at Zhejiang University of Science and Technology, specializing in NLP. I have practical experience in developing AI systems, such as document parsers and multi-modal RAG question-answering systems. My skill set includes proficiency in Python and R, as well as familiarity with tools like Docker, Gitlab, and Fastapi. I have worked with various open-source frameworks, including `LlamaIndex` and `Langchain`. I am committed to continuous learning and am enthusiastic about applying AI to address real-world challenges.
 
-<!--
-**nmhjklnm/nmhjklnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / R / Next.js / TailwindCss
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on SenseTime 
+- 🌱 I’m currently learning Meta-programming、Next.js、 
+- 👯 I’m looking to collaborate on Open-source AI projects, especially those related to NLP and data analysis. 
+- 🤔 I’m looking for help with Improving the efficiency of large-scale language model training. 
+- 💬 Ask me about AI system development, NLP, and data analysis. 
+- 📫 How to reach me: Email: yangchichi@126.com  
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I enjoy exploring new AI technologies and often spend my free time working on personal AI projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nmhjklnm)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmhjklnm)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhjklnm&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nmhjklnm/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/nmhjklnm)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
+
