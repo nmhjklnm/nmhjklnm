@@ -15,20 +15,22 @@ Skills: Python / R / Next.js / TailwindCss
 
 ### My Contributions and Maintained Repositories
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
-    <h4>🌟 Contributed to</h4>
-    <a href="https://github.com/run-llama/llama_index">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index" alt="llama_index">
-    </a>
-  </div>
-  <div style="text-align: center;">
-    <h4>🔧 Maintainer of</h4>
-    <a href="https://github.com/LazyAGI/LazyLLM">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LazyAGI&repo=LazyLLM" alt="LazyLLM">
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <h4>🌟 Contributed to</h4>
+      <a href="https://github.com/run-llama/llama_index">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index" alt="llama_index">
+      </a>
+    </td>
+    <td align="center">
+      <h4>🔧 Maintainer of</h4>
+      <a href="https://github.com/LazyAGI/LazyLLM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LazyAGI&repo=LazyLLM" alt="LazyLLM">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
