@@ -13,15 +13,24 @@ Skills: Python / R / Next.js / TailwindCss
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I enjoy exploring new AI technologies and often spend my free time working on personal AI projects. 
 
-## My Contributions and Maintained Repositories
+### My Contributions and Maintained Repositories
 
-### 🌟 Contributed to
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index)](https://github.com/run-llama/llama_index)
-
-### 🔧 Maintainer of
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nmhjklnm&repo=LazyLLM)](https://github.com/nmhjklnm/LazyAGI/LazyLLM)
+<table>
+  <tr>
+    <td>
+      <h4>🌟 Contributed to</h4>
+      <a href="https://github.com/run-llama/llama_index">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index" alt="llama_index">
+      </a>
+    </td>
+    <td>
+      <h4>🔧 Maintainer of</h4>
+      <a href="https://github.com/LazyAGI/LazyLLM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LazyAGI&repo=LazyLLM" alt="LazyLLM">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
