@@ -15,30 +15,17 @@ Skills: Python / R / Next.js / TailwindCss
 
 ### My Contributions and Maintained Repositories
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <h4>🌟 Contributed to</h4>
-      <ul>
-        <li><a href="https://github.com/run-llama/llama_index">llama_index</a></li>
-        <ul>
-          <li>修复了数据处理模块中的一个关键bug</li>
-          <li>优化了查询算法，提高了性能</li>
-        </ul>
-      </ul>
-    </td>
-    <td align="center" valign="top">
-      <h4>🔧 Maintainer of</h4>
-      <ul>
-        <li><a href="https://github.com/LazyAGI/LazyLLM">LazyLLM</a></li>
-        <ul>
-          <li>设计并实现了核心架构</li>
-          <li>撰写并维护了项目文档</li>
-          <li>定期发布新版本并管理问题跟踪</li>
-        </ul>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 🌟 Contributed to
+
+- [llama_index](https://github.com/run-llama/llama_index) ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
+  - 修复了数据处理模块中的一个关键bug
+  - 优化了查询算法，提高了性能
+
+#### 🔧 Maintainer of
+
+- [LazyLLM](https://github.com/LazyAGI/LazyLLM) ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM?style=social)
+  - 设计并实现了核心架构
+  - 撰写并维护了项目文档
+  - 定期发布新版本并管理问题跟踪
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
