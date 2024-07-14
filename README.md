@@ -17,20 +17,28 @@ Skills: Python / R / Next.js / TailwindCss
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <h4>🌟 Contributed to</h4>
-      <a href="https://github.com/run-llama/llama_index">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index" alt="llama_index">
-      </a>
+      <ul>
+        <li><a href="https://github.com/run-llama/llama_index">llama_index</a></li>
+        <ul>
+          <li>修复了数据处理模块中的一个关键bug</li>
+          <li>优化了查询算法，提高了性能</li>
+        </ul>
+      </ul>
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <h4>🔧 Maintainer of</h4>
-      <a href="https://github.com/LazyAGI/LazyLLM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LazyAGI&repo=LazyLLM" alt="LazyLLM">
-      </a>
+      <ul>
+        <li><a href="https://github.com/LazyAGI/LazyLLM">LazyLLM</a></li>
+        <ul>
+          <li>设计并实现了核心架构</li>
+          <li>撰写并维护了项目文档</li>
+          <li>定期发布新版本并管理问题跟踪</li>
+        </ul>
+      </ul>
     </td>
   </tr>
 </table>
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
