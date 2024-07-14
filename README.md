@@ -14,9 +14,8 @@ Skills: Python / R / Next.js / TailwindCss
 - ⚡ Fun fact: I enjoy exploring new AI technologies and often spend my free time working on personal AI projects. 
 
 
-### 🌟 Contributed to [llama_index](https://github.com/run-llama/llama_index)
-- [Update simple_summarize.py](https://github.com/run-llama/llama_index/pull/14714)
-- 
+[![PR](https://img.shields.io/badge/PR-Update%20simple_summarize.py-blue)](https://github.com/run-llama/llama_index/pull/14714)
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhjklnm&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
