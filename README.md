@@ -9,7 +9,8 @@ Skills: Python / R / Next.js / TailwindCss
 - 👯 I’m looking to collaborate on Open-source AI projects, especially those related to NLP and data analysis. 
 - 🤔 I’m looking for help with Improving the efficiency of large-scale language model training. 
 - 💬 Ask me about AI system development, NLP, and data analysis. 
-- 📫 How to reach me: Email: yangchichi@126.com  
+- 📫 How to reach me: [Email](mailto:yangchichi@126.com)  
+
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I enjoy exploring new AI technologies and often spend my free time working on personal AI projects. 
 
