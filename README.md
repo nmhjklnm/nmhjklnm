@@ -13,10 +13,15 @@ Skills: Python / R / Next.js / TailwindCss
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I enjoy exploring new AI technologies and often spend my free time working on personal AI projects. 
 
+## My Contributions and Maintained Repositories
 
-[![PR](https://img.shields.io/badge/PR-Update%20simple_summarize.py-blue)](https://github.com/run-llama/llama_index/pull/14714)
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhjklnm&show_icons=true&count_private=true)  
+### 🌟 Contributed to
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index)](https://github.com/run-llama/llama_index)
+
+### 🔧 Maintainer of
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nmhjklnm&repo=my-maintained-repo)](https://github.com/nmhjklnm/LazyAGI/LazyLLM)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
