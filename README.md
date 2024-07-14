@@ -21,7 +21,7 @@ Skills: Python / R / Next.js / TailwindCss
 
 ### 🔧 Maintainer of
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nmhjklnm&repo=my-maintained-repo)](https://github.com/nmhjklnm/LazyAGI/LazyLLM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nmhjklnm&repo=LazyLLM)](https://github.com/nmhjklnm/LazyAGI/LazyLLM)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
