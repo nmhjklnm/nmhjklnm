@@ -17,14 +17,12 @@ Skills: Python / R / Next.js / TailwindCss
 #### 🌟 Contributions
 
 [llama_index](https://github.com/run-llama/llama_index) ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
-  - [Fixed async IO blocking issue in LlamaIndex streaming API service](https://github.com/run-llama/llama_index/pull/14714)
+  - [Fixed async IO blocking issue in the streaming API service of LlamaIndex-Core.](https://github.com/run-llama/llama_index/pull/14714)
 
 #### 🔧 Maintainer of
 
 [LazyLLM](https://github.com/LazyAGI/LazyLLM) ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM?style=social)
-  - Participated in the architecture design and development of LazyLLM-Engine.
-  - Wrote and maintained project documentation.
-  - Regularly released new versions and managed issue tracking.
+- Designed and developed the LazyLLM-Engine architecture, maintained project documentation, and managed releases and issue tracking.
   
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
