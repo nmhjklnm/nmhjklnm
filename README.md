@@ -13,19 +13,17 @@ Skills: Python / R / Next.js / TailwindCss
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I enjoy exploring new AI technologies and often spend my free time working on personal AI projects. 
 
-### My Contributions and Maintained Repositories
-
 #### 🌟 Contributed to
 
-- [llama_index](https://github.com/run-llama/llama_index) ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
-  - 修复了数据处理模块中的一个关键bug
-  - 优化了查询算法，提高了性能
-
+[llama_index](https://github.com/run-llama/llama_index) ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
+- [Fixed async IO blocking issue in LlamaIndex streaming API service](https://github.com/run-llama/llama_index/pull/14714)
+- 
 #### 🔧 Maintainer of
 
-- [LazyLLM](https://github.com/LazyAGI/LazyLLM) ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM?style=social)
-  - 设计并实现了核心架构
-  - 撰写并维护了项目文档
-  - 定期发布新版本并管理问题跟踪
+[LazyLLM](https://github.com/LazyAGI/LazyLLM) ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM?style=social)
+- Participated in the architecture design and development of LazyLLM-Engine.
+- Wrote and maintained project documentation.
+- Regularly released new versions and managed issue tracking.
+- 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
