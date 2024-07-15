@@ -24,5 +24,4 @@ Skills: Python / R / Next.js / TailwindCss
 [LazyLLM](https://github.com/LazyAGI/LazyLLM) ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM?style=social)
 - Designed and developed the LazyLLM-Engine architecture, maintained project documentation, and managed releases and issue tracking.
   
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhjklnm)  
 
