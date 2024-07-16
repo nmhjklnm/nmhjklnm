@@ -12,7 +12,7 @@ Skills: Python / R / Next.js / TailwindCss
 #### 🌟 Contributions
 
 [llama_index](https://github.com/run-llama/llama_index) ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
-  - [Fixed async IO blocking issue in the streaming API service of LlamaIndex-Core.](https://github.com/run-llama/llama_index/pull/14714)
+  - Fixed async IO blocking issue in the streaming API service of LlamaIndex-Core.
 
 #### 🔧 Maintainer of
 
