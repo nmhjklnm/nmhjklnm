@@ -1,13 +1,10 @@
 ### Hi there 👋, my name is nmhjklnm
 #### I am LLM System Development Engineer
-My skill set includes proficiency in Python and R, as well as familiarity with tools like Docker, Gitlab, and Fastapi. I have worked with various open-source frameworks, including `LlamaIndex` and `Langchain`. I am committed to continuous learning and am enthusiastic about applying AI to address real-world challenges.
-
-Skills: Python / R / Next.js / TailwindCss
+I am committed to continuous learning and am enthusiastic about applying AI to address real-world challenges.
 
 - 🌱 I’m currently learning Meta-programming、Next.js、 
-- 👯 I’m looking to collaborate on Open-source AI projects, especially those related to NLP and data analysis. 
+- 👯 I’m looking to collaborate on Open-source AI projects, especially those related to Agents. 
 - 🤔 I’m looking for help with Improving the efficiency of large-scale language model training. 
-- 📫 How to reach me: [Email](mailto:yangchichi@126.com)  
 
 #### 🌟 Contributions
 
